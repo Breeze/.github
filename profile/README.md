@@ -26,5 +26,7 @@ Breeze is built by [IdeaBlade](https://www.ideablade.com/).
 Coming from Breeze 2.x? See the [upgrade guide](https://github.com/Breeze/breeze-client-v3/blob/master/UPGRADE.md).
 Still on DevForce? [TempHire](https://github.com/Breeze/temphire.angular) shows a
 Silverlight/WPF app converted to the web, file by file.
+Need help with an upgrade?  [IdeaBlade](https://www.ideablade.com/modernization/), the team behind
+Breeze, modernizes older Breeze, DevForce and other .NET applications.
 
 [Documentation](https://breeze.github.io/) · [Website](https://www.getbreezenow.com)
