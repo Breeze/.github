@@ -13,6 +13,7 @@ Breeze is built by [IdeaBlade](https://www.ideablade.com/).
 | [**breeze-client-v3**](https://github.com/Breeze/breeze-client-v3) | Breeze 3 for JavaScript and TypeScript: ESM-only, typed entities and queries, an entity class generator, and an Angular adapter. [Docs](https://breeze.github.io/breeze-client-v3/) |
 | [**breeze-server-v3**](https://github.com/Breeze/breeze-server-v3) | The .NET server for Breeze: ASP.NET Core with EF Core or NHibernate, for .NET 8, 9 and 10. |
 | [**temphire.angular**](https://github.com/Breeze/temphire.angular) | A complete line-of-business app on Angular, Breeze 3 and .NET, with multi-tenancy and Quinn, an AI assistant that works through an MCP server. |
+| [**temphire.react**](https://github.com/Breeze/temphire.react) | The same app converted to React 19, with Mantine and React Router, plus a guide to React for Angular developers that maps the concepts side by side. |
 | [**northwind-demo**](https://github.com/Breeze/northwind-demo) | One demo, several clients (Angular, Aurelia, React, Vue) and servers (.NET, Node). |
 
 ## Also here
