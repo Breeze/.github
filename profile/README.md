@@ -15,6 +15,7 @@ Breeze is built by [IdeaBlade](https://www.ideablade.com/).
 | [**ideablade-validation**](https://github.com/Breeze/ideablade-validation) | *Preview.* Metadata-driven validation for TypeScript and .NET: one set of rules for client and server, with Angular, React and Breeze integrations, and any other data layer. Not published to npm or NuGet yet; the API and the name may still change. |
 | [**temphire.angular**](https://github.com/Breeze/temphire.angular) | A complete line-of-business app on Angular, Breeze 3 and .NET, with multi-tenancy and Quinn, an AI assistant that works through an MCP server. |
 | [**temphire.react**](https://github.com/Breeze/temphire.react) | The same app converted to React 19, with Mantine and React Router, plus a guide to React for Angular developers that maps the concepts side by side. |
+| [**temphire.server**](https://github.com/Breeze/temphire.server) | The .NET server both TempHire apps share, as a git submodule: Breeze, EF Core and validation on save, multi-tenancy, OAuth 2.1 sign-in, and Quinn's MCP server. |
 | [**northwind-demo**](https://github.com/Breeze/northwind-demo) | One demo, several clients (Angular, Aurelia, React, Vue) and servers (.NET, Node). |
 
 ## Also here
